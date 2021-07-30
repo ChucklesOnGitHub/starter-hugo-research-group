@@ -6,7 +6,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:
+    link: 
   - icon: twitter
     icon_pack: fab
     link: 
@@ -15,7 +15,7 @@ social:
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link:
 organizations:
   - name: Universidad de Buenos Aires
 education:
