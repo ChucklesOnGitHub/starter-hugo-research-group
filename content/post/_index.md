@@ -1,14 +1,12 @@
 ---
-title: Latest News
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Convocatoria abierta
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+subtitle: Postulate antes del 7 de septiembre
+date: 2021-07-30T18:05:53.304Z
 ---
+Completá el formulario: xxxx
+
+y envianos una carta de recomendación a talleresopensource@gmail.com
