@@ -7,7 +7,7 @@
 
 theme: apogee
 day_night: true
-font: minimal
+font: mr_robot
 font_size: M
 
 # SEO
@@ -15,7 +15,7 @@ font_size: M
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: Taller practico abierto IBRO-LARC sobre adquisición de señales neuronales
+description: Taller practico abierto IBRO-LARC
 twitter: ''
 
 # Contact (edit or remove options as required)
