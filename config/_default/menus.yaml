@@ -10,9 +10,9 @@ main:
 #  - name: Programa
 #    url: programa
 #    weight: 30
-#   - name: Oradores
-#    url: oradores
-#    weight: 40
+   - name: Charlas
+    url: event
+    weight: 40
   - name: Equipo
     url: people
     weight: 50
