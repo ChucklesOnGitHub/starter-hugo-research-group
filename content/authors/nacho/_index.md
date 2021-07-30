@@ -23,6 +23,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Organizadores
+  - Docentes
 highlight_name: false
 ---
