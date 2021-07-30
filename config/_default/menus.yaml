@@ -10,15 +10,16 @@ main:
   - name: Charlas
     url: event
     weight: 30
+  - name: Programa
+    url: programa
+    weight: 40
   - name: Equipo
     url: people
-    weight: 40
-#  - name: Apoyos
-#    url: apoyos
-#    weight: 60
+    weight: 50
+  - name: Apoyos
+    url: apoyos
+    weight: 60
 #  - name: Contact
 #    url: contact
 #    weight: 60
-#  - name: Programa
-#    url: programa
-#    weight: 30
+
