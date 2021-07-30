@@ -12,10 +12,10 @@ main:
 #    weight: 30
    - name: Charlas
     url: event
-    weight: 40
+    weight: 30
   - name: Equipo
     url: people
-    weight: 50
+    weight: 40
 #  - name: Apoyos
 #    url: apoyos
 #    weight: 60
