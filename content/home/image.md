@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id: flyer
 headless: true
-weight: 30
+weight: 50
 title: null
 subtitle: null
 active: true
