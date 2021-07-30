@@ -1,4 +1,4 @@
 Nos apoyan generosamente
 
-![IBRO](ibro_logo.png "International Brain Research Organization")
-![SAN](SANTransparente.png "Sociedad Argentina de Investigación en Neurociencias")
+![IBRO](ibro_logo.png)
+![SAN](SANTransparente.png)
