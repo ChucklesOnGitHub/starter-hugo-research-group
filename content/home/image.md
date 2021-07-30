@@ -9,9 +9,9 @@ title: null
 subtitle: null
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: flyer_azu.jpeg
+    image: flyer_bottom.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
