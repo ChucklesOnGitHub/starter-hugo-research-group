@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Charlas
 
 # View.
 #   1 = List
@@ -12,3 +12,7 @@ header:
   caption: ""
   image: ""
 ---
+
+Lista de oradores confirmadas/os
+
+- XXX (Universidad de xxx)
