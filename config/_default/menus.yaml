@@ -7,18 +7,18 @@ main:
   - name: Inscripción
     url: post
     weight: 20
-  - name: Programa
-    url: programa
-    weight: 30
-   - name: Oradores
-    url: oradores
-    weight: 40
+#  - name: Programa
+#    url: programa
+#    weight: 30
+#   - name: Oradores
+#    url: oradores
+#    weight: 40
   - name: Equipo
     url: people
     weight: 50
-  - name: Apoyos
-    url: apoyos
-    weight: 60
+#  - name: Apoyos
+#    url: apoyos
+#    weight: 60
 #  - name: Contact
 #    url: contact
 #    weight: 60
