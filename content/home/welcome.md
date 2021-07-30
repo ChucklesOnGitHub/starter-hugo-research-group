@@ -6,7 +6,7 @@ weight: 10
 title: "Taller práctico abierto IBRO-LARC: adquisición de señales neuronales"
 subtitle: 1 al 5 de noviembre 2021
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 hero_media: welcome.jpg
