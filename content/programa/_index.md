@@ -7,7 +7,7 @@ header:
 subtitle: 
 date: 2021-07-30T18:05:53.304Z
 ---
-![Programa](/Programa.png)
+![Programa](/content/programa/Programa.png)
 
 Muchas veces empezamos nuestros experimentos de electrofisiología sin saber realmente cómo funcionan las herramientas que estamos utilizando o cuál es el flujo de trabajo adecuado para analizar los datos que registramos. Este curso propone que estas herramientas y metodologías, en vez de cajas negras dentro las cuales no sabemos qué pasa, sean nuestras aliadas. Abordemos estas actividades desde una perspectiva de ciencia abierta y tecnologías libres, que nos ayudarán a hacer nuestro trabajo más reproducible, adaptable y colaborativo. 
 
