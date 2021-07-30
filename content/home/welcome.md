@@ -3,10 +3,10 @@ widget: hero
 widget_id: welcome
 headless: true
 weight: 10
-title: "Taller práctico abierto IBRO-LARC: adquisición de señales neuronales"
-subtitle: 1 al 5 de noviembre 2021
+title: ""
+subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
 hero_media: welcome.jpg
